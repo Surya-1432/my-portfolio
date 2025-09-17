@@ -19,9 +19,16 @@ export default function Contact() {
         <a href="mailto:mukkasuryakiran@gmail.com" className="px-4 py-2 bg-cyan-500 rounded-xl hover:bg-cyan-600 transition">
           Email
         </a>
-        <a href="www.linkedin.com/in/mukka-suryakiran-973231323" target="_blank" rel="noopener noreferrer" className="px-4 py-2 bg-gray-700 rounded-xl hover:bg-cyan-500 transition">
+       
+        <a 
+         href="https://www.linkedin.com/in/mukka-suryakiran-973231323" 
+         target="_blank" 
+         rel="noopener noreferrer"
+         className="px-4 py-2 bg-gray-700 rounded-xl hover:bg-cyan-500 transition"
+         >
           LinkedIn
-        </a>
+          </a>
+
         <a href="https://github.com/Surya-1432" target="_blank" rel="noopener noreferrer" className="px-4 py-2 bg-gray-700 rounded-xl hover:bg-cyan-500 transition">
           GitHub
         </a>
