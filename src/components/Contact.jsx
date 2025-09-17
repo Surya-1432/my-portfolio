@@ -16,7 +16,7 @@ export default function Contact() {
         Let’s connect! Feel free to reach out through email or social media.
       </p>
       <div className="space-x-4">
-        <a href="mailto:mukkasuryakiran@gmail.com" className="px-4 py-2 bg-cyan-500 rounded-xl hover:bg-cyan-600 transition">
+        <a href="mailto:mukkasuryakiran@gmail.com" className="px-4 py-2 bg-gray-700 rounded-xl hover:bg-cyan-600 transition">
           Email
         </a>
        
