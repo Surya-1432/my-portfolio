@@ -25,9 +25,12 @@ const experiences = [
    
   },
    {
+    role: "Full Stack Web Development ",
+    company: "Intrnforte",
+    period: "2024-2025",
     description:"My Traning Certificate.",
     certificate:"/certificates/Internship Training.jpg",
-   }
+   },
 ];
 
 export default function Experience() {
