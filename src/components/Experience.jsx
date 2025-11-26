@@ -22,6 +22,8 @@ const experiences = [
     period: "2024-2025",
     description: "Developed a JOB PORTAL web page using FULL STACK TOOLS.",
     certificate: "/certificates/Full_Stack_Web_Development.pdf",
+    description:"My Traning Certificate.",
+    certificate:"/certificates/Internship Training.jpg",
   },
 ];
 
