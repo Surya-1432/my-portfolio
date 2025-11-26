@@ -10,6 +10,7 @@ const skills = [
   { name: "Html", level: "85%" },
   { name: "Css", level: "90%" },
   { name: "JavaScript", level: "80%" },
+  { name: "Django", level: "70%" },
 ];
 
 export default function Skills() {
