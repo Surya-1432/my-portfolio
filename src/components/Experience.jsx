@@ -20,8 +20,8 @@ const experiences = [
     role: "Full Stack Web Development ",
     company: "Intrnforte",
     period: "2024-2025",
-    description: "Currently working on it, to enhance my skills .",
-    
+    description: "Developed a JOB PORTAL web page using FULL STACK TOOLS.",
+    certificate: "/certificates/Full_Stack_Web_Development.pdf",
   },
 ];
 
